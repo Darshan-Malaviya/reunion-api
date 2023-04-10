@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "6434543ffb89ec718b6c946e"
+  },
+  "username": "darshan",
+  "email": "d@gmail.com",
+  "password": "d12345678",
+  "isActive": true,
+  "followers": [],
+  "following": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1681151039308"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681151039308"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "643454659a5cb404532e5b7c"
+  },
+  "username": "test1",
+  "email": "test1@gmail.com",
+  "password": "d12345678",
+  "isActive": true,
+  "followers": [],
+  "following": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1681151077186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681151077186"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "64345476c9df8b416e82f3f1"
+  },
+  "username": "test2",
+  "email": "test2@gmail.com",
+  "password": "d12345678",
+  "isActive": true,
+  "followers": [],
+  "following": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1681151094283"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681151094283"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "643454865cad65948cb9cb15"
+  },
+  "username": "h",
+  "email": "h@gmail.com",
+  "password": "d12345678",
+  "isActive": true,
+  "followers": [],
+  "following": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1681151110621"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681151110621"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "643454946e91427a1d263cdb"
+  },
+  "username": "hello",
+  "email": "hello@gmail.com",
+  "password": "d12345678",
+  "isActive": true,
+  "followers": [],
+  "following": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1681151124762"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681151124762"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "643454a062c1bd78f57d44ef"
+  },
+  "username": "happy",
+  "email": "happy@gmail.com",
+  "password": "d12345678",
+  "isActive": true,
+  "followers": [],
+  "following": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1681151137008"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681151137008"
+    }
+  }
+}]
